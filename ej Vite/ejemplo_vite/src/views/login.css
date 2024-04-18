@@ -1,0 +1,19 @@
+.login{
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.inputs{
+    display: block;
+    margin: 0 auto;
+}
+
+label { 
+    padding: 10px;
+}
+
+input {
+    margin: 10px;
+}
+
